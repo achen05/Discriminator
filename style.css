@@ -1,11 +1,11 @@
 @font-face {
   font-family: texgyreherosBold;
-  src: url("texgyreheros-Bold.otf");
+  src: url("texgyreheros-bold.otf");
 }
 
 @font-face {
   font-family: texgyreheros;
-  src: url("texgyreheros-Regular.otf");
+  src: url("texgyreheros-regular.otf");
 }
 
 body {
